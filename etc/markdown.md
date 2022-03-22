@@ -71,7 +71,8 @@
 ```
 
 - 출력 결과
-    - 인용구
+	> 인용구
+	>> 다시인용
 
 ## 5. Bullet list
 
@@ -93,9 +94,6 @@
 ```markdown
 [링크이름](https://velog.io/@mimmimmu)
 
-- 참조링크
-[내블로그][1]
-[1]: https://velog.io/@mimmimmu
 
 - 주소만으로 링크
 <https://velog.io/@mimmimmu>
@@ -105,9 +103,7 @@
     
     [링크이름](https://velog.io/@mimmimmu)
     
-    [내블로그][1]
-    [1]: https://velog.io/@mimmimmu
-    
+
     <https://velog.io/@mimmimmu>
     
 
@@ -146,7 +142,6 @@
 
 ## 8. Code 코드
 
-![코드]()
 - 출력결과
     
     ```java
